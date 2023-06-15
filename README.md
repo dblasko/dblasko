@@ -1,6 +1,7 @@
 ## 👋,
 [![Gmail Badge](https://img.shields.io/badge/-daniel.blasko.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daniel.blasko.dev@gmail.com)](mailto:daniel.blasko.dev@gmail.com) 
-![Linkedin Badge](https://img.shields.io/badge/-dblasko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-blasko/)](https://www.linkedin.com/in/daniel-blasko/) [![Github Badge](https://img.shields.io/badge/-dblasko-grey?style=flat&logo=github&logoColor=white&link=https:/
+![Linkedin Badge](https://img.shields.io/badge/-dblasko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-blasko/)](https://www.linkedin.com/in/daniel-blasko/) 
+[![Github Badge](https://img.shields.io/badge/-dblasko-grey?style=flat&logo=github&logoColor=white&link=https://github.com/dblasko/)](https://www.github.com/dblasko/)
 [![Twitter Badge](https://img.shields.io/badge/-blskdan-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/blskdan/)](https://www.twitter.com/blskdan/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/dblasko/)](https://github.com/dblasko/) <p align='left'>I am a computer science and data science student passionate about conceiving and engineering applications that actively help and enable people.</p><p align='left'> You can view my resume <a href='https://dblasko.fr/' target=_blank><u>here</u>.</a></p>
 
 <p align="center">
