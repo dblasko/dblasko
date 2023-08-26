@@ -1,4 +1,3 @@
-## 👋,
 [![Gmail Badge](https://img.shields.io/badge/-daniel.blasko.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daniel.blasko.dev@gmail.com)](mailto:daniel.blasko.dev@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-dblasko-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-blasko/)](https://www.linkedin.com/in/daniel-blasko/)
 [![Twitter Badge](https://img.shields.io/badge/-blskdan-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/blskdan/)](https://www.twitter.com/blskdan/) <p align='left'>I am a computer science and data science student passionate about conceiving and engineering applications that actively help and enable people.</p><p align='left'> You can view my resume <a href='https://www.dblasko.fr/' target=_blank><u>here</u>.</a></p>
