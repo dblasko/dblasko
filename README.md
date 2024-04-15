@@ -1,5 +1,3 @@
-[![Gmail Badge](https://img.shields.io/badge/-daniel.blasko.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:daniel.blasko.dev@gmail.com)](mailto:daniel.blasko.dev@gmail.com) 
-
 <p align='left'>I a software engineering and data science master's student passionate about conceiving, building, optimizing and deploying innovative and challenging deep-learning-based solutions. </br> I'm a result-driven problem-solver, currently having lots of fun diving deeper into understanding and debugging lower-level ML concepts (<i>memory management, distributed training at scale...</i>) and multimodal generative AI (<i>working on multiple image-text projects</i>). </p><p align='left'> <b>Find out more about me (resume, other platforms / resources) <a href='https://www.dblasko.fr/' target=_blank><u>here</u></a>, or use any of the badges below to get in touch.</b></p>
 
 <p align="center">
